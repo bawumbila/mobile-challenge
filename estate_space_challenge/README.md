@@ -15,7 +15,7 @@ This is a single page application that hooks into the EstateState Users API and 
 1. API: https://github.com/bawumbila/mobile-challenge/blob/master/user.md
 2. Expo Tools: https://expo.dev/tools
 
-#Future improvements:
+# Future improvements:
 1. Automated tests (unit test + UI tests).
 2. UI improvements. 
 3. Deploy to AWS
