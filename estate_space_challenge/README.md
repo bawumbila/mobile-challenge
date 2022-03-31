@@ -9,3 +9,5 @@ Instructions to run:
 
 TODO: 
 Explain what the app does. 
+
+Application hooks int API and Displays uder data , Name, .......
