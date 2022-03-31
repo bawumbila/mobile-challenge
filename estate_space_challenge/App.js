@@ -55,19 +55,19 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>Estate Space Single Page App<br/><br/></Text>
+      <Text>Estate Space Single Page App{"\n"}{"\n"}</Text>
       <StatusBar style="auto" />
 
       <FlatList style={{margin:5}}
         data={state.users}
         renderItem={({item}) => 
         <Text style={styles.item}>
-          ID: {item.id}<br/>
-          Name: {item.name.firstName} {item.name.lastName}<br/>
-          Email: {item.email}<br/>
-          Gender: {item.gender}<br/>
-          Role: {item.role} <br/>
-          ----------- <br/>
+          ID: {item.id}{"\n"}
+          Name: {item.name.firstName} {item.name.lastName}{"\n"}
+          Email: {item.email}{"\n"}
+          Gender: {item.gender}{"\n"}
+          Role: {item.role} {"\n"}
+          ----------- {"\n"}
         </Text>}
       />
     </View>
