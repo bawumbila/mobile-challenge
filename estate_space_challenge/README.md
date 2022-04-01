@@ -9,7 +9,7 @@
 
 # App Description:
 
-This is a single page application that hooks into the EstateState Users API and displays User data. The app uses pagination to append subsequent pages of user data. The app is built in React Native with orchestration and manual testing using the Expo SDK, the Expo Go app. 
+This is a single page application that hooks into the EstateSpace Users API and displays User data. The app uses pagination to append subsequent pages of user data. The app is built in React Native with orchestration and manual testing using the Expo SDK, the Expo Go app. 
 
 # Links: 
 1. API: https://github.com/bawumbila/mobile-challenge/blob/master/user.md
